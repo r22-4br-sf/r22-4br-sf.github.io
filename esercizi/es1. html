@@ -1,1 +1,19 @@
-
+<html>
+  <head>
+    <title>Lista</title>
+  </head>
+  <body>
+    <h1><b>Lista Non Ordinata su due miei cibi preferiti</b></h1>
+    <ul>
+      <li><i>Pizza</i></li>
+      <li><i>Spaghetti Carbonara</i></li>
+    </ul>
+    <br>
+    <h1><b>Lista Ordinata su due miei film preferiti</b></h1>
+    <ol>
+      <li><i>Avengers Endgame</i></li>
+      <li><i>Spider Man No Way Home</i></li>
+    </ol>
+   </body>
+</html>
+    
