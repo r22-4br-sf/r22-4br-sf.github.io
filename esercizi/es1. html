@@ -9,10 +9,11 @@
       <li><i>Spaghetti Carbonara</i></li>
     </ul>
     <br>
-    <h1><b>Lista Ordinata su due miei film preferiti</b></h1>
+    <h2><b>Lista Ordinata su due miei film preferiti</b></h2>
     <ol>
       <li><i>Avengers Endgame</i></li>
       <li><i>Spider Man No Way Home</i></li>
     </ol>
-   </body>
+  
+  </body>
 </html>
